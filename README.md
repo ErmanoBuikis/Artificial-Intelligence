@@ -21,3 +21,4 @@ They analyze, process, and model data then interpret the results to create actio
 ![Alt text](img/databases_types.png?raw=true)
 
 <br>
+
